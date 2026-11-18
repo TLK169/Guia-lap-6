@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\bin\Debug\net10.0\Guia lab 6.exe
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\bin\Debug\net10.0\Guia lab 6.deps.json
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\bin\Debug\net10.0\Guia lab 6.runtimeconfig.json
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\bin\Debug\net10.0\Guia lab 6.dll
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\bin\Debug\net10.0\Guia lab 6.pdb
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\obj\Debug\net10.0\Guia lab 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\obj\Debug\net10.0\Guia lab 6.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\obj\Debug\net10.0\Guia lab 6.AssemblyInfo.cs
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\obj\Debug\net10.0\Guia lab 6.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\obj\Debug\net10.0\Guia lab 6.dll
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\obj\Debug\net10.0\refint\Guia lab 6.dll
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\obj\Debug\net10.0\Guia lab 6.pdb
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\obj\Debug\net10.0\Guia lab 6.genruntimeconfig.cache
+C:\Users\ACER\Documents\Trabajo final Pyton\Guia lab 6\obj\Debug\net10.0\ref\Guia lab 6.dll
